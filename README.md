@@ -1,1 +1,1 @@
-# RLab3
+[![Build Status](https://travis-ci.org/aashana94/RLab3.svg?branch=master)](https://travis-ci.org/aashana94/RLab3)
